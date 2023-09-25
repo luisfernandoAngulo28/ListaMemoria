@@ -1,0 +1,13 @@
+#include <iostream>
+#include <string>
+#include "UListP.h"
+using namespace std;
+
+
+int main(){
+ ListP* list;
+ list=new ListP
+
+system("pause");
+return 0;
+}

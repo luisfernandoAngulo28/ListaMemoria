@@ -1,0 +1,24 @@
+#include <iostream>
+#include <string>
+#include "UListaP.h"
+#include "UListaS.h"
+#include "CSMemoria.h"
+using namespace std;
+ 
+
+int main(){
+	/*ListaP* list;
+	list=new ListaP();
+	list->inserta_primero(10);
+	list->inserta_ultimo(20);
+	list->inserta_ultimo(30);
+ 	cout<<list->to_str()<<endl;
+								 */
+
+	ListaS* list;
+	CSMemoria* mem=new CSMemoria();
+    list=new ListaS(mem);
+
+system("pause");
+return 0;
+}

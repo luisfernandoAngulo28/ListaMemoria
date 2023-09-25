@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/09/16 19:05:57.000.276,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/09/16 19:05:58.000.860,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2023/09/16 19:08:17.000.718,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\File2.cpp=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Lista\Menu.cpp</Transaction>
+    <Transaction>2023/09/16 19:08:22.000.406,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Lista\Project1PCH1.h</Transaction>
+    <Transaction>2023/09/16 19:08:30.000.909,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Lista\Project1.cbproj</Transaction>
+    <Transaction>2023/09/16 19:38:28.000.852,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Lista\Unit1.cpp</Transaction>
+    <Transaction>2023/09/16 19:38:42.000.342,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Lista\Unit1.cpp=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Lista\UListaP.cpp</Transaction>
+    <Transaction>2023/09/16 19:38:42.000.342,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Lista\Unit1.h=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Lista\UListaP.h</Transaction>
+    <Transaction>2023/09/23 19:49:43.039,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Lista\Unit1.cpp</Transaction>
+    <Transaction>2023/09/23 19:51:31.310,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Lista\clases\CSMemoria.cpp</Transaction>
+    <Transaction>2023/09/23 19:52:12.358,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Lista\Unit2.cpp</Transaction>
+    <Transaction>2023/09/23 19:52:36.366,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Lista\UListaS.h=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Lista\Unit2.h</Transaction>
+    <Transaction>2023/09/23 19:52:36.366,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Lista\UListaS.cpp=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Lista\Unit2.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
